@@ -24,8 +24,11 @@ Single Pull: Click to perform one pull.
 The results are displayed using the following mappings:
 
 "3*" → 3★
+
 "4*" → 4★
+
 "5*" → 5★
+
 "featured 5*" → up!5★
 
 History:
