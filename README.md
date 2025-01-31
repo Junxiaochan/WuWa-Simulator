@@ -36,9 +36,13 @@ History:
 Click the History button to open a window displaying the pull history summary.
 The summary includes the total number of pulls and the count for each rarity.
 Within the history window, a Reset History button allows you to clear all previous pull data.
+
 Probability Calculation:
 
 Click the Calculate Probability button to open a window where you can enter:
+
 The planned number of pulls.
+
 The target number of featured 5★ (up!5★) pulls.
+
 The simulator then uses Monte Carlo simulation to estimate the probability of reaching the target.
