@@ -27,6 +27,7 @@ The results are displayed using the following mappings:
 "4*" → 4★
 "5*" → 5★
 "featured 5*" → up!5★
+
 History:
 
 Click the History button to open a window displaying the pull history summary.
