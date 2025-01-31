@@ -1,6 +1,21 @@
 # WuWa-Simulator
 This program is simulates Wuthering Waves game pulling results under mathematical basis.
 
+# Installation
+Requirements:
+
+Python 3.x
+Tkinter (typically bundled with Python)
+Clone or Download the Repository:
+
+git clone https://your-repository-url.git
+cd gacha-simulator
+
+Running the Program
+Run the simulator by executing the main Python file:
+python your_script_name.py
+This command will launch the GUI for the gacha simulator.
+
 # User Interface
 Pull Buttons:
 
